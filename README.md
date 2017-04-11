@@ -2,21 +2,21 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
-##Requirements: 
-node, npm, @angular/cli
-
-
-##To deploy: 
-$ cd ./<project directory>  //go to project directory
-$ ./deploy                  //type this command to install project dependencies and project server
-
-##To see in browser:
-Go to localhost:4200 to see project in browser.
-Relevent code is in /app/ directory.
-
-
-
-##____________________________
+Requirements: <br>
+node, npm, @angular/cli<br>
+<br>
+<br>
+To deploy: <br>
+$ cd ./<project directory> <br>
+$ ./deploy                  <br>
+<br>
+To see in browser:<br>
+Go to localhost:4200 to see project in browser.<br>
+Relevent code is in /app/ directory.<br>
+<br>
+<br>
+<br>
+<br>
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
